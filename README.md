@@ -1,4 +1,4 @@
-# Project Title
+# Middleware Technology 
 
 ## Second Attempt at the PVL
 
@@ -17,8 +17,8 @@ This project is a second attempt at the PVL. It involves the following technolog
 
 ## Testing the Application
 
-To test the application, you can follow these steps:
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/jkloeble/Middleware_Technology.git
+ChatGPT has said that the easiest way to test the application is to use
+1) git clone https://github.com/jkloeble/Middleware_Technology.git
+2) cd todo_jkloeble_main
+3) Open in vscode or other editors 
+4) open http://localhost:8080

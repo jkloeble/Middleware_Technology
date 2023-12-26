@@ -17,8 +17,11 @@ This project is a second attempt at the PVL. It involves the following technolog
 
 ## Testing the Application
 
-ChatGPT has said that the easiest way to test the application is to use
-1) git clone https://github.com/jkloeble/Middleware_Technology.git
-2) cd todo_jkloeble_main
-3) Open in vscode or other editors 
-4) open http://localhost:8080
+ChatGPT has said that the easiest way to test the application is to use:
+
+```
+git clone https://github.com/jkloeble/Middleware_Technology.git
+cd todo_jkloeble_main
+```
+ Open in vscode or other editors
+ Open http://localhost:8080
